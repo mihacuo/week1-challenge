@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styling header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,16 +42,19 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* End of styling header */
 
+
+/* Now styling anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Styling p tags */
 p {
     font-size: 16px;
 }
-
+/* This is large image diplayed on the webpage */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Start of styling benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,7 +103,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of styling benefits */
 
+/* Start of styling sections */
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,7 +123,10 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of styling sections  */
 
+
+/* Styling footer  */
 .footer {
     padding: 30px;
     clear: both;
