@@ -7,6 +7,41 @@ The purpose of the challenge is to improve site's SEO functionality. I have work
 I have used infomration from the task to plan the work and achieve the result
 
 Here is a list of acceptance criteria I have worked to:
+Technical Acceptance Criteria: 40%
+
+* Satisfies all of the above acceptance criteria plus the following code improvements:
+
+  * Application's links all function correctly.
+
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+
+  * Application's CSS file is properly commented.
+
+#### Deployment: 32%
+
+* Application deployed at live URL.
+
+* Application loads with no errors.
+
+* Application GitHub URL submitted.
+
+* GitHub repository that contains application code.
+
+#### Application Quality: 15%
+
+* Application resembles (at least 90%) screenshots provided in the challenge instructions.
+
+#### Repository Quality: 13%
+
+* Repository has a unique name.
+
+* Repository follows best practices for file structure and naming conventions.
+
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+
+* Repository contains multiple descriptive commit messages.
+
+* Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
 The end result will be diplayed at
@@ -15,50 +50,28 @@ https://mihacuo.github.io/week1-challenge/starter/
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+A Central Grading Team shoul navigate to 
+https://mihacuo.github.io/week1-challenge/starter/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+Ann the work completed
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+This work has been a result of my sole work
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+MIT License
 
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
 
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+This is an end produce and not intended for further contribution
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+I have reviewed the end result and tested the links. On the visual comparisson my page looked the same as on the screenshot, we have been shown on the BootCamp last live session
 
 ---
 
