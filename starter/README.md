@@ -2,11 +2,6 @@
 
 ## Description 
 
-<<<<<<< HEAD
-## This is second test
-
-
-another test on git
 =======
 The purpose of the challenge is to improve site's SEO functionality. I have worked throiugh both HTML and CSS to achieve the result.
 
